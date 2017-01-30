@@ -59,10 +59,10 @@ is the part of a computer operating system that understands and executes command
   right click ->  profiles -> profilepreferances
  ![alt text](http://cdn.makeuseof.com/wp-content/uploads/2016/08/Ubuntu-Plain-Term-e1471581643714.jpg?663fb1)
 
-
- 
- ### Question4: What are the benefits of working with the command line rather than a GUI? 
 ---
+
+ ### Question4: What are the benefits of working with the command line rather than a GUI? 
+
  #### GUI vs Command Line
   
  "GUI" is :Graphical User Interface
