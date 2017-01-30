@@ -20,6 +20,9 @@ Use the command "ls".
 
 ##### To move to another directory:
 
+```
+Use the command "cd <directory>/".
+```
 
 ## Question 3 : How can you customise your terminal?
   right click ->  profiles -> profilepreferances
