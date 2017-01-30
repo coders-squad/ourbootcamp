@@ -61,9 +61,8 @@ is the part of a computer operating system that understands and executes command
 
 ---
 
- ### Question4: What are the benefits of working with the command line rather than a GUI? 
-
- #### GUI vs Command Line
+### Question4: What are the benefits of working with the command line rather than a  GUI
+#### GUI vs Command Line
   
  "GUI" is :Graphical User Interface
  user interface based on graphics (icons and pictures and menus) instead of text; uses a mouse as well as a keyboard as an input device
