@@ -23,7 +23,7 @@ Use the command "ls".
 Use the command "cd <directory>/".
 ```
 
-
+shahenaz
 ### Question 2 : What is a Bash?
 ---
 Bash is GNU Project's * shell, or command language interpreter, for the GNU operating system. The name is an acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh.Thrfore, IT is also an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh).It offers functional improvements over sh for both programming and interactive use. In addition, most sh script; scan be run by Bash without modification.a script is a program or sequence of instructions that is interpreted or carried out by another program rather than by the computer processor (as a compiled program is). 
