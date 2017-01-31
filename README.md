@@ -6,9 +6,17 @@
 ### Write tutorial on how to use the command line to find out which directory you're in, how to print its contents, and how to move to another directory.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 To find out in which directory you're in:
+=======
+#### To find out in which directory you're in:
+>>>>>>> 27984e4ee1f84a480f246e1885a9197c0b7cb737
 
+```
+Use the command "pwd".
+```
 
+<<<<<<< HEAD
 ```
 Use the command "pwd".
 ```
@@ -41,6 +49,10 @@ Use the command "pwd".
 
 <<<<<<< HEAD
 =======
+=======
+#### To print the content of the directory:
+
+>>>>>>> 27984e4ee1f84a480f246e1885a9197c0b7cb737
 ```
 Use the command "ls".
 ```
@@ -99,4 +111,7 @@ CLIs are used on computers and other devices such as routers and switches. The c
 
 A GUI is easier to use for more casual users. Many common operations, such as copying and pasting, can be performed by using just the mouse. Icons and menus take the place of text commands and do not have to be memorized. It is also easier to switch between multiple active tasks using a graphical interface. However, advanced operations may only be accessible via the command line.
  
+<<<<<<< HEAD
 >>>>>>> 4ca732e6ec4578e076c9e596d00553332735ce19
+=======
+>>>>>>> 27984e4ee1f84a480f246e1885a9197c0b7cb737
