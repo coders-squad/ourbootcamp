@@ -35,3 +35,7 @@ These practicses will help the team to learn more about how to work together.
 -Every team member commit changes on it's branch then push changes online
 
 -Changes then is reviewed and merged with the master
+
+
+# Website 
+https://coders-squad.github.io/ourbootcamp/
