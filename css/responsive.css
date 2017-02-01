@@ -1,0 +1,46 @@
+
+/*********************** tablet size ***********************/
+
+@media (max-width:900px){
+	.col-md-4{
+		width: 100%;
+	}
+	.col-md-3{
+		width: 50%;
+	}
+	.about-us .member{
+		margin-bottom: 30px;
+	}
+	.services .service{
+		margin-bottom: 30px;
+	}
+	.team .image-wrp{
+		width: 100%;
+	}
+	.team .text-wrp{
+		width: 100%;
+		padding: 20px 15px;
+	}
+}
+
+/*********************** mobile size ***********************/
+
+@media (max-width:700px){
+	.col-md-3{
+		width: 100%;
+	}
+}
+@media (max-width:500px){
+	header nav ul li {
+	    padding: 15px 5px;
+	}
+	header nav ul{
+		text-align: center;
+	}
+	header nav {
+	    float: none;
+	}
+	header nav ul li a {
+	    font-size: 14px;
+	}
+}
