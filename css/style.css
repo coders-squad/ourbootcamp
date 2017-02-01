@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 }
 .container{
-	max-width: 1200px;
+	max-width: 1170px;
 	padding-left: 15px;
 	padding-right: 15px;
 	margin: 0 auto;
@@ -61,10 +61,12 @@ header nav ul li a{
 }
 section h2.section-title{
 	text-align: center;
+
 margin-bottom: 40px;
 font-size: 34px;
 margin-top: -1px;
 padding-bottom: 10px;
+
 }
 
 /*********** hero section style ***********/
@@ -81,6 +83,7 @@ padding-bottom: 10px;
 	top: 50%;
 	left: 50%;
 	text-align: center;
+	width: 100%;
 }
 .hero .text-wrp h1{
 	color: #ffffff;
@@ -97,6 +100,7 @@ padding-bottom: 10px;
 	padding: 50px 0;
 }
 .team .image-wrp{
+
 	width: 50%;
 padding: 0 90px;
 	float: left;
@@ -104,6 +108,7 @@ padding: 0 90px;
 .team .text-wrp{
 	width: 40%;
 	padding: 63px 15px;
+
 	float: left;
 }
 .team .image-wrp img{
@@ -129,6 +134,12 @@ padding: 0 90px;
 	max-width: 100%;
 	border-radius: 50%;
 }
+.about-us .member .socials{
+	padding-top: 20px;
+}
+.about-us .member .socials img {
+    width: 50px;
+}
 /*********** services section style ***********/
 .contact-us {
 	background-color: #EFF5F1;
@@ -137,13 +148,17 @@ padding: 0 90px;
 .contact-us form{
 	max-width: 700px;
 	margin: 0 auto;
+	text-align: center;
 }
-.contact-us form input{
+.contact-us form input[type=text],
+.contact-us form input[type=email],
+.contact-us form textarea{
 	width: 100%;
 	margin-bottom: 20px;
 	padding: 10px;
 	background-color: #f9f9f9;
 	box-shadow: none;
+
 	border: 3px solid white;
 }
 .contact-us form textarea{
@@ -154,4 +169,14 @@ padding: 0 90px;
 	box-shadow: none;
 	border: 3px solid white;
 }
-
+	
+.contact-us input[type=submit]{
+	background-color: transparent;
+	border: 1px solid #000;
+	padding: 10px;
+	border-radius: 5px;
+	width: 200px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #444;
+}
