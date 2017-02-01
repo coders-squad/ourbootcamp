@@ -25,8 +25,13 @@ These practicses will help the team to learn more about how to work together.
 
 ### This project was divided into stages:
 -Skecthing  the website style.
+
 -Creating branches of master
+
 -Building the webstie structure 
+
 -Styling the website via css
+
 -Every team member commit changes on it's branch then push changes online
+
 -Changes then is reviewed and merged with the master
