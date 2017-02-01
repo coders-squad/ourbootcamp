@@ -93,6 +93,7 @@ padding-bottom: 10px;
 }
 .hero .text-wrp span{
 	color: #ffffff;
+	font-size: 20px;
 }
 
 /*********** team section style ***********/
@@ -108,6 +109,7 @@ padding: 0 90px;
 .team .text-wrp{
 	width: 40%;
 	padding: 63px 15px;
+	font-size: 20px;
 
 	float: left;
 }
