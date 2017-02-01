@@ -151,9 +151,10 @@ section h2.section-title{
 
 }
 .contact-us form textarea{
-	height: 150px;
-<<<<<<< HEAD
-}
+	height: 150px;}
+=======
+	height: 150px;}
+
 .contact-us input[type=submit]{
 	background-color: transparent;
 	border: 1px solid #000;
@@ -170,4 +171,3 @@ section h2.section-title{
 	border: 1px solid #999;
 }
 
->>>>>>> f4de90baecccff799cdf7dbcbbf343debd5b9554
