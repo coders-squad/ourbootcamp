@@ -61,7 +61,8 @@ header nav ul li a{
 section h2.section-title{
 	text-align: center;
 	margin-bottom: 60px;
-	margin-top: 0;
+	font-size: 34px;
+  	 margin-top: 10px;
 }
 
 /*********** hero section style ***********/
@@ -95,12 +96,12 @@ section h2.section-title{
 	padding: 50px 0;
 }
 .team .image-wrp{
-	width: 40%;
+	width: 60%;
 	padding: 0 15px;
 	float: left;
 }
 .team .text-wrp{
-	width: 60%;
+	width: 40%;
 	padding: 150px 15px;
 	float: left;
 }
@@ -155,8 +156,7 @@ section h2.section-title{
 
 }
 .contact-us form textarea{
-	height: 150px;
-}
+	height: 150px;}
 .contact-us input[type=submit]{
 	background-color: transparent;
 	border: 1px solid #000;
@@ -166,4 +166,15 @@ section h2.section-title{
 	font-size: 18px;
 	font-weight: bold;
 	color: #444;
+<<<<<<< HEAD
 }
+=======
+}
+=======
+	background-color: #f9f9f9;
+	box-shadow: none;
+	border: 1px solid #999;
+}
+
+
+>>>>>>> f05cd8973b06d625ae1a8f2528f016725b169a41
