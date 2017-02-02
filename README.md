@@ -13,7 +13,7 @@ This is the first project in 2017 in HTML,CSS,JAVASCRIPT
 It is a portfolio website about the team,services,and the team members also a person can send a massege to contact the team for any projects.
 
 ---
-
+![alt text](https://files.gitter.im/Coders-Squade/Lobby/HjLp/STEAKHOUSE_1_.png)
 ## Why did we build this website?
 
 This website was built for education purposes to practice using github and git facilities. This webstie was based on group work and pair programming.
