@@ -2,7 +2,7 @@
 ##                              This is the first project in 2017 in HTML,CSS,JAVASCRIPT
 
 
-![alt text](https://files.gitter.im/Coders-Squade/Lobby/HjLp/STEAKHOUSE_1_.png)
+   ![alt text] (https://files.gitter.im/Coders-Squade/Lobby/HjLp/STEAKHOUSE_1_.png)
 
 
 
